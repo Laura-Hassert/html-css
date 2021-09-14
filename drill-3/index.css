@@ -1,0 +1,47 @@
+.main-body {
+    background-color: #ffffff;
+    /* font: arial; */
+    font-size: 28px;
+    height: 200px;
+    width: 100%;
+}
+.header {
+    background-color: #d8d8d8;
+    height: 100px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header-box {
+    background-color: #4990e2;
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.boxes {
+    height: 100px;
+    width: 100%;
+}
+
+.box1 {
+    background-color: #4990e2;
+}
+
+.box2 {
+    background-color: #4fe3c3;
+}
+
+.box3 {
+    background-color: #b9e986;
+}
+
+.box4 {
+    background-color: #f9e71c;
+}
+
+
+
+
