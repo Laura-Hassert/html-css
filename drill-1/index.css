@@ -1,24 +1,25 @@
+body {
+    background-color: #d8d8d8;
+    height: 75%;
+    margin: 0;
+}
+
 .header {
     background-color: #444444;
-    height: 150px;
+    height: 20vh;
     width: 100%
 }
 
 .footer {
     background-color: #222222;
-    height: 100px;
+    height: 10vh;
     width: 75%;
     margin: 0 auto;
 }
 
-body {
-    background-color: #d8d8d8;
-    height: 75%;
-}
-
 .middle-box {
     background-color: #efefef;
-    height: 100%;
+    height: 70vh;
     width: 75%;
     margin: 0 auto;
 }
